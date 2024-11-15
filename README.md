@@ -19,7 +19,8 @@ I specialize in various hacking techniques and tools to push the limits of cyber
   ![Destruction](https://img.shields.io/badge/Expertise-Destruction-darkred)
 
 
-### 🛠️ **Tech Stack**: ![Python](https://img.shields.io/badge/Code-Python-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![Bash](https://img.shields.io/badge/Code-Bash-lightgrey) ![SQL](https://img.shields.io/badge/Code-SQL-orange) ![HTML](https://img.shields.io/badge/Code-HTML-green) ![CSS](https://img.shields.io/badge/Code-CSS-blue) ![C](https://img.shields.io/badge/Code-C-00599C) ![C++](https://img.shields.io/badge/Code-C++-f34b7d) ![Java](https://img.shields.io/badge/Code-Java-red) ![PHP](https://img.shields.io/badge/Code-PHP-777bb4) ![Ruby](https://img.shields.io/badge/Code-Ruby-darkred) ![Go](https://img.shields.io/badge/Code-Go-c7c7c7) ![Rust](https://img.shields.io/badge/Code-Rust-brown) ![Perl](https://img.shields.io/badge/Code-Perl-violet) ![Lua](https://img.shields.io/badge/Code-Lua-blueviolet) ![Swift](https://img.shields.io/badge/Code-Swift-orange) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue) ![VBScript](https://img.shields.io/badge/Code-VBScript-green) ![Assembly](https://img.shields.io/badge/Code-Assembly-lightgrey)
+### 🛠️ **Main Languages**:
+![Python](https://img.shields.io/badge/Code-Python-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![HTML](https://img.shields.io/badge/Code-HTML-green) ![CSS](https://img.shields.io/badge/Code-CSS-blue) ![C](https://img.shields.io/badge/Code-C-00599C) ![C++](https://img.shields.io/badge/Code-C++-f34b7d) ![Java](https://img.shields.io/badge/Code-Java-red) ![PHP](https://img.shields.io/badge/Code-PHP-777bb4) ![VBScript](https://img.shields.io/badge/Code-VBScript-green)
 
 
 ### 💻 **Platforms**:  
