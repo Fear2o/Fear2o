@@ -56,7 +56,9 @@ Fear.io - Expertise Hacker | Developer | Digital Maverick
 root@fear.io:~# connect
 ```
 🌐 Portfolio: Ask me in discord
+
 🕶️ Discord: fear.2o
+
 🛠️ Shop: Ask me in discord for custom tool making or other hacking related services
 
 
