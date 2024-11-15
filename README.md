@@ -1,8 +1,8 @@
-# 💀 Fear.io 💀
+## 💀 Fear.io 💀
 
 > _"everyones biggest fear is the fear of losing control."_
 ---
-## 🕶️ **Who Am I?**
+### 🕶️ **Who Am I?**
 ```bash
 root@fear.io:~# whoami
 Fear.io - Expertise Hacker | Developer | Digital Maverick
@@ -10,7 +10,7 @@ Fear.io - Expertise Hacker | Developer | Digital Maverick
 **🔒 I craft code, exploit vulnerabilities, and challenge the limits of cybersecurity.
 ⚡ Passionate about building tools that empower hackers and secure the internet.**
 
-# ⚙️ My Arsenal
+### ⚙️ My Arsenal
 ```plaintext
 > Exploits
 > Reconnaissance Tools
