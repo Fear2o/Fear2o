@@ -29,22 +29,16 @@ I specialize in various hacking techniques and tools to push the limits of cyber
 ![WSL](https://img.shields.io/badge/Platform-WSL-lightblue)  
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
-## 🔗 Connect with Me
+## 🔗 **Connect with Me**  
+🌐 Portfolio: DM on Discord  
+🕶️ Discord: fear.2o  
+🛠️ Shop: DM for custom tools and services
 
-```plaintext
-root@fear.io:~# connect
-```
-🌐 Portfolio: Ask me in discord
 
-🕶️ Discord: fear.2o
-
-🛠️ Shop: Ask me in discord for custom tool making or other hacking related services
-
-### 🎯 I focus on:
-
-- Hacking and vulnerability exploitation.
-- Creating next-gen security and offensive tools.
-- Sharing knowledge to empower the community.
+### 🎯 **My Expertise**:  
+- Advanced hacking & vulnerability exploitation  
+- Developing cutting-edge security & offensive tools  
+- Empowering the community through knowledge sharing
 
 ### 💻 **GitHub Stats**
 
