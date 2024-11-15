@@ -1,6 +1,7 @@
 # 💀 Fear.io 💀
 
 > _"everyones biggest fear is the fear of losing control."_
+
 ---
 
 ## 🕶️ **Who Am I?**
