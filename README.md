@@ -1,5 +1,8 @@
-## 💀 Fear.io 💀
 
+<img src="https://media.giphy.com/media/24FW7JSoZ66w9ALKli/giphy.gif" width="1500" height="auto" />
+
+ # Fear.io
+ 
 > _"everyones biggest fear is the fear of losing control."_
 ---
 ### 🕶️ **Who Am I?**
@@ -44,6 +47,8 @@ I specialize in various hacking techniques and tools to push the limits of cyber
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fear2o&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fear2o&layout=compact&theme=dark)
+
+
 
 ## 👀 **Check out the featured repos below!**
 - [ShellKill](https://github.com/Fear2o/ShellKill)
