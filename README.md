@@ -5,20 +5,22 @@
 ### 🕶️ **Who Am I?**
 ```bash
 root@fear.io:~# whoami
-Fear.io - Expertise Hacker | Developer | Digital Maverick
-```
-**🔒 I craft code, exploit vulnerabilities, and challenge the limits of cybersecurity.
-⚡ Passionate about building tools that empower hackers and secure the internet.**
-
-### ⚙️ My Arsenal
-```plaintext
-> Exploits
-> Reconnaissance Tools
-> Custom High-end hacking tools
+Fear.io - Expertise Hacker | Developer | cybersecurity virtuoso
 ```
 
-### 🛠️ **Tech Stack**:  
-![Python](https://img.shields.io/badge/Code-Python-blue)  ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)  ![Bash](https://img.shields.io/badge/Code-Bash-lightgrey)  ![SQL](https://img.shields.io/badge/Code-SQL-orange)  ![HTML](https://img.shields.io/badge/Code-HTML-green)  ![CSS](https://img.shields.io/badge/Code-CSS-blue) ![C](https://img.shields.io/badge/Code-C-00599C)  ![C++](https://img.shields.io/badge/Code-C++-f34b7d)  ![Java](https://img.shields.io/badge/Code-Java-red)  ![PHP](https://img.shields.io/badge/Code-PHP-777bb4)  ![Ruby](https://img.shields.io/badge/Code-Ruby-darkred)  ![Go](https://img.shields.io/badge/Code-Go-c7c7c7)  ![Rust](https://img.shields.io/badge/Code-Rust-brown)  ![Perl](https://img.shields.io/badge/Code-Perl-violet)  ![Lua](https://img.shields.io/badge/Code-Lua-blueviolet)  ![Swift](https://img.shields.io/badge/Code-Swift-orange)  ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue)  ![VBScript](https://img.shields.io/badge/Code-VBScript-green)  ![Assembly](https://img.shields.io/badge/Code-Assembly-lightgrey)
+### ⚙️ **My Arsenal**  
+I specialize in various hacking techniques and tools to push the limits of cybersecurity.
+
+#### 🔥 **Core Skills:**
+  ![Cybersecurity Attacks](https://img.shields.io/badge/Expertise-Cybersecurity_Attacks-red)
+  
+ ![Server Cracking](https://img.shields.io/badge/Expertise-Server_Cracking-orange)
+  
+  ![Destruction](https://img.shields.io/badge/Expertise-Destruction-darkred)
+
+
+### 🛠️ **Tech Stack**: ![Python](https://img.shields.io/badge/Code-Python-blue) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow) ![Bash](https://img.shields.io/badge/Code-Bash-lightgrey) ![SQL](https://img.shields.io/badge/Code-SQL-orange) ![HTML](https://img.shields.io/badge/Code-HTML-green) ![CSS](https://img.shields.io/badge/Code-CSS-blue) ![C](https://img.shields.io/badge/Code-C-00599C) ![C++](https://img.shields.io/badge/Code-C++-f34b7d) ![Java](https://img.shields.io/badge/Code-Java-red) ![PHP](https://img.shields.io/badge/Code-PHP-777bb4) ![Ruby](https://img.shields.io/badge/Code-Ruby-darkred) ![Go](https://img.shields.io/badge/Code-Go-c7c7c7) ![Rust](https://img.shields.io/badge/Code-Rust-brown) ![Perl](https://img.shields.io/badge/Code-Perl-violet) ![Lua](https://img.shields.io/badge/Code-Lua-blueviolet) ![Swift](https://img.shields.io/badge/Code-Swift-orange) ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue) ![VBScript](https://img.shields.io/badge/Code-VBScript-green) ![Assembly](https://img.shields.io/badge/Code-Assembly-lightgrey)
+
 
 ### 💻 **Platforms**:  
 ![Kali Linux](https://img.shields.io/badge/Platform-Kali_Linux-blueviolet)  
