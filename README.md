@@ -33,26 +33,14 @@ I specialize in various hacking techniques and tools to push the limits of cyber
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
 
 ## 🔗 **Connect with Me**  
-🌐 Portfolio: DM on Discord  
 🕶️ Discord: fear.2o  
-🛠️ Shop: DM for custom tools and services
 
-
-### 🎯 **My Expertise**:  
-- Advanced hacking & vulnerability exploitation  
-- Developing cutting-edge security & offensive tools  
-- Empowering the community through knowledge sharing
 
 ### 💻 **GitHub Stats**
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Fear2o&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fear2o&layout=compact&theme=dark)
 
-
-
-## 👀 **Check out the featured repos below!**
-- [ShellKill](https://github.com/Fear2o/ShellKill)
-- [CrazyNuker](https://github.com/Fear2o/CrazyNuker)
 
 ```plaintext
 root@fear.io:~# exit
