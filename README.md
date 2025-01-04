@@ -1,10 +1,6 @@
 
-<img src="https://media.giphy.com/media/24FW7JSoZ66w9ALKli/giphy.gif" width="1500" height="auto" />
-
- # Fear.io
+ # My Name is Fear.io
  
-> _"everyones biggest fear is the fear of losing control."_
----
 ### 🕶️ **Who Am I?**
 ```bash
 root@fear.io:~# whoami
@@ -19,7 +15,7 @@ I specialize in various hacking techniques and tools to push the limits of cyber
   
  ![Server Cracking](https://img.shields.io/badge/Expertise-Server_Cracking-orange)
   
-  ![Destruction](https://img.shields.io/badge/Expertise-Destruction-darkred)
+  ![Destruction & Chaos](https://img.shields.io/badge/Expertise-Destruction-darkred)
 
 
 ### 🛠️ **Main Languages**:
@@ -31,9 +27,6 @@ I specialize in various hacking techniques and tools to push the limits of cyber
 ![Parrot OS](https://img.shields.io/badge/Platform-Parrot_OS-brightgreen)  
 ![WSL](https://img.shields.io/badge/Platform-WSL-lightblue)  
 ![Windows](https://img.shields.io/badge/Platform-Windows-blue)
-
-## 🔗 **Connect with Me**  
-🕶️ Discord: fear.2o  
 
 
 ### 💻 **GitHub Stats**
